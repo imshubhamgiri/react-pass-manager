@@ -28,8 +28,8 @@ A modern **Password Manager** built with **React** and **TailwindCSS**, designed
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/the-pass-local.git
-cd the-pass-local
+git clone https://github.com/imshubhamgiri/react-pass-manager
+cd react-pass-manager
 
 ```
 ## Run Locally
