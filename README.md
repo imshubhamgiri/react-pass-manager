@@ -1,4 +1,4 @@
-# 🔑 The Pass 🔑
+#  The Pass 🔑
 
 A modern **Password Manager** built with **React** and **TailwindCSS**, designed to securely store and manage your credentials directly in the browser using **LocalStorage**.  
 
